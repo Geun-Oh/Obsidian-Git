@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAA/IAM.md",
+                "file": "SAA/EC2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAA/IAM.md",
+                "file": "SAA/EC2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAA/IAM.md",
+                "file": "SAA/EC2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAA/IAM.md"
+                "file": "SAA/EC2.md"
               }
             }
           },
@@ -158,12 +158,13 @@
   },
   "active": "b65d22e4b4f2f961",
   "lastOpenFiles": [
+    "SAA/Edge Locations.md",
+    "SAA/Security Group.md",
+    "SAA/EC2.md",
+    "SAA/IAM.md",
     "SAA/Global Infrastructure.md",
     "SAA/Region.md",
-    "SAA/IAM.md",
-    "SAA/Edge Locations.md",
     "SAA/Availability Zone.md",
-    "SAA/EC2.md",
     "SAA"
   ]
 }
