@@ -25,26 +25,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Athena.md",
+                "file": "SAA/Athena.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d30825496614449f",
+            "id": "5177efe30ca22408",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "S3.md",
+                "file": "SAA/S3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f327dabcbb72708d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SAA/S3 Glacier.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b922ff44f120fb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SAA/Availability Zone.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S3.md",
+                "file": "SAA/Availability Zone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S3.md",
+                "file": "SAA/Availability Zone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S3.md"
+                "file": "SAA/Availability Zone.md"
               }
             }
           },
@@ -181,15 +205,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d30825496614449f",
+  "active": "3b922ff44f120fb4",
   "lastOpenFiles": [
-    "Athena.md",
-    "S3.md",
+    "SAA/Athena.md",
+    "SAA/EC2 Instance Store VS EBS.md",
+    "SAA/EC2 Instance Store.md",
+    "SAA/S3 Glacier.md",
+    "SAA/IAM.md",
+    "SAA/S3.md",
+    "SAA/Snowball Edge.md",
     "SAA/EFS.md",
     "SAA/EC2.md",
     "SAA/Edge Locations.md",
     "SAA/Security Group.md",
-    "SAA/IAM.md",
     "SAA/Global Infrastructure.md",
     "SAA/Region.md",
     "SAA/Availability Zone.md",
