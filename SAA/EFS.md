@@ -8,7 +8,7 @@
 > [!note]
 > 온프레미스 스토리지를 AWS로 이전하고 싶다? EFS를 생각해보기!
 
-[AWS EFS 개념 및 구성 방법](https://practice.hooniworld.io/entry/AWS-EFS-%EA%B0%9C%EB%85%90-%EB%B0%8F-%EA%B5%AC%EC%84%B1-%EB%B0%A9%EB%B2%95)
+>[!tip] [AWS EFS 개념 및 구성 방법](https://practice.hooniworld.io/entry/AWS-EFS-%EA%B0%9C%EB%85%90-%EB%B0%8F-%EA%B5%AC%EC%84%B1-%EB%B0%A9%EB%B2%95)
 
 
 
