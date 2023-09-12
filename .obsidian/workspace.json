@@ -20,18 +20,31 @@
             }
           },
           {
+            "id": "476a29ce9600ab8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IAM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "20b93673de44440d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Region.md",
+                "file": "SAA/Region.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAA/Global Infrastructure.md",
+                "file": "IAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAA/Global Infrastructure.md",
+                "file": "IAM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,8 +150,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAA/Global Infrastructure.md"
+                "file": "IAM.md"
               }
+            }
+          },
+          {
+            "id": "271e08db58d3934f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -155,16 +176,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7c04e13b68d32375",
+  "active": "476a29ce9600ab8e",
   "lastOpenFiles": [
-    "SAA/EC2.md",
-    "Region.md",
     "SAA/Global Infrastructure.md",
+    "IAM.md",
+    "SAA/Region.md",
     "SAA/Edge Locations.md",
     "SAA/Availability Zone.md",
+    "SAA/EC2.md",
     "SAA"
   ]
 }

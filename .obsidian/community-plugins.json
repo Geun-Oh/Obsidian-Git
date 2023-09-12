@@ -1,3 +1,16 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "better-word-count",
+  "calendar",
+  "oz-clear-unused-images",
+  "dataview",
+  "editing-toolbar",
+  "obsidian-excalidraw-plugin",
+  "obsidian-emoji-toolbar",
+  "obsidian-kanban",
+  "obsidian-image-toolkit",
+  "obsidian-outliner",
+  "url-into-selection",
+  "obsidian-tasks-plugin",
+  "remotely-save"
 ]

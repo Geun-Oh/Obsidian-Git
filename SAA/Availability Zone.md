@@ -1,0 +1,12 @@
+
+- 각 리전은 여러 개의 AZ를 가지고 있다.
+	- 보통 3, 최소 2, 최대 6
+- 각 AZ는 하나 이상의 Data Center로 이루어져 있다.
+- 각 AZ는 분리되어 있어 재난으로부터 동시에 영향을 받지 않는다.
+- 각 AZ는 <font color="#d83931">높은 대역폭</font>, <font color="#4bacc6">낮은 지연시간</font>의 네트워크로 연결되어 있다.
+- EX
+	- Sydney: `ap-southeast-2`
+		- AZ
+			- `ap-southeast-2a`
+			- `ap-southeast-2b`
+			- `ap-southeast-2c`
