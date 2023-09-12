@@ -17,7 +17,7 @@
 - CPU
 - RAM
 - Storage Space
-	- Network-attached: EBS & EFS
+	- Network-attached: EBS & [[EFS]]
 	- Hardware: EC2 Instance Store => 블록 수준의 임시 스토리지
 - Network card
 	- speed, Public IP address

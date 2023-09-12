@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAA/EC2.md",
+                "file": "SAA/EFS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9e672e422f90efa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Athena.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d30825496614449f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "S3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAA/EC2.md",
+                "file": "S3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAA/EC2.md",
+                "file": "S3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAA/EC2.md"
+                "file": "S3.md"
               }
             }
           },
@@ -156,11 +181,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b65d22e4b4f2f961",
+  "active": "d30825496614449f",
   "lastOpenFiles": [
+    "Athena.md",
+    "S3.md",
+    "SAA/EFS.md",
+    "SAA/EC2.md",
     "SAA/Edge Locations.md",
     "SAA/Security Group.md",
-    "SAA/EC2.md",
     "SAA/IAM.md",
     "SAA/Global Infrastructure.md",
     "SAA/Region.md",
