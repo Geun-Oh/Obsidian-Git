@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IAM.md",
+                "file": "SAA/IAM.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IAM.md",
+                "file": "SAA/IAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IAM.md",
+                "file": "SAA/IAM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IAM.md"
+                "file": "SAA/IAM.md"
               }
             }
           },
@@ -180,10 +180,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "476a29ce9600ab8e",
+  "active": "cbcd57485190f88c",
   "lastOpenFiles": [
     "SAA/Global Infrastructure.md",
-    "IAM.md",
+    "SAA/IAM.md",
     "SAA/Region.md",
     "SAA/Edge Locations.md",
     "SAA/Availability Zone.md",
