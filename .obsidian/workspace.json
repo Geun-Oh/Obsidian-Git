@@ -4,95 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "dd23694d419b836a",
+        "id": "fc06b8fad3079cea",
         "type": "tabs",
         "children": [
           {
-            "id": "b65d22e4b4f2f961",
+            "id": "b27a20fa653641e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SAA/EFS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e9e672e422f90efa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SAA/Athena.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5177efe30ca22408",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SAA/S3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f327dabcbb72708d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SAA/S3 Glacier.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b922ff44f120fb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SAA/Region.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ecfcaef0cd2d58f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SAA/Region.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59170b1fcea72646",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SAA/Snowball Edge.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAA/Snowball Edge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAA/Snowball Edge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SAA/Snowball Edge.md"
-              }
+              "state": {}
             }
           },
           {
@@ -229,28 +148,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "59170b1fcea72646",
+  "active": "b27a20fa653641e8",
   "lastOpenFiles": [
+    "SAA/EFS.md",
+    "SAA/Athena.md",
+    "SAA/S3.md",
     "SAA/S3 Glacier.md",
+    "SAA/Region.md",
+    "SAA/Snowball Edge.md",
     "SAA/EventBridge.md",
     "Pasted image 20230912203912.png",
     "SAA/EBS VS EFS VS S3.md",
     "SAA/EBS.md",
     "SAA/WAF.md",
-    "SAA/Region.md",
     "SAA/IAM.md",
     "SAA/Cloudfront.md",
     "SAA/Route53.md",
     "SAA/Global Infrastructure.md",
-    "SAA/EFS.md",
     "SAA/Edge Locations.md",
     "SAA/EC2 Instance Store VS EBS.md",
     "SAA/EC2 Instance Store.md",
     "SAA/EC2.md",
     "SAA/Availability Zone.md",
-    "SAA/Athena.md",
-    "SAA/S3.md",
-    "SAA/Snowball Edge.md",
     "SAA/Security Group.md",
     "SAA"
   ]
