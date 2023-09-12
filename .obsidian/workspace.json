@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8c1f22ba0f77c882",
+        "id": "f878c6ad6ff6e221",
         "type": "tabs",
         "children": [
           {
-            "id": "b72afe1980b9bdfe",
+            "id": "e198d1e86d308bcd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,6 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b72afe1980b9bdfe",
-  "lastOpenFiles": []
+  "active": "e198d1e86d308bcd",
+  "lastOpenFiles": [
+    "SAA/EC2.md",
+    "SAA"
+  ]
 }
