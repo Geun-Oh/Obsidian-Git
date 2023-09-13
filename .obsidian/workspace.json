@@ -171,8 +171,9 @@
   },
   "active": "ced60be7cc43249f",
   "lastOpenFiles": [
-    "SAA/Cloudfront.md",
+    "SAA/EC2.md",
     "ENI.md",
+    "SAA/Cloudfront.md",
     "SAA/Region.md",
     "SAA/EFS.md",
     "SAA/Athena.md",
@@ -190,7 +191,6 @@
     "SAA/Edge Locations.md",
     "SAA/EC2 Instance Store VS EBS.md",
     "SAA/EC2 Instance Store.md",
-    "SAA/EC2.md",
     "SAA/Availability Zone.md",
     "SAA/Security Group.md",
     "SAA"
