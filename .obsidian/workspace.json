@@ -35,8 +35,12 @@
             "id": "8e1ec5a19cb7c98a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SAA/EC2 Instance Store.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -90,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 342.5
   },
   "right": {
     "id": "857a6b9f5e4996c6",
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SAA/EC2 Instance Store.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SAA/EC2 Instance Store.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SAA/EC2 Instance Store.md"
+              }
             }
           },
           {
@@ -175,9 +183,11 @@
   },
   "active": "8e1ec5a19cb7c98a",
   "lastOpenFiles": [
-    "AMI.md",
-    "SAA/EBS.md",
+    "SAA/AMI.md",
+    "Pasted image 20230912203912.png",
+    "Drawing 2023-09-14 00.54.43.excalidraw.md",
     "스크린샷 2023-09-13 오후 10.04.54.png",
+    "SAA/EBS.md",
     "SAA/EC2.md",
     "SAA/ENI.md",
     "SAA/Cloudfront.md",
@@ -188,7 +198,6 @@
     "SAA/S3 Glacier.md",
     "SAA/Snowball Edge.md",
     "SAA/EventBridge.md",
-    "Pasted image 20230912203912.png",
     "SAA/EBS VS EFS VS S3.md",
     "SAA/WAF.md",
     "SAA/IAM.md",
