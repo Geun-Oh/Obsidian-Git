@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8e1ec5a19cb7c98a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AMI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAA/EBS.md",
+                "file": "AMI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAA/EBS.md",
+                "file": "AMI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAA/EBS.md"
+                "file": "AMI.md"
               }
             }
           },
@@ -169,8 +181,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ced60be7cc43249f",
+  "active": "8e1ec5a19cb7c98a",
   "lastOpenFiles": [
+    "SAA/EBS.md",
+    "AMI.md",
     "스크린샷 2023-09-13 오후 10.04.54.png",
     "SAA/EC2.md",
     "SAA/ENI.md",
@@ -184,7 +198,6 @@
     "SAA/EventBridge.md",
     "Pasted image 20230912203912.png",
     "SAA/EBS VS EFS VS S3.md",
-    "SAA/EBS.md",
     "SAA/WAF.md",
     "SAA/IAM.md",
     "SAA/Route53.md",
