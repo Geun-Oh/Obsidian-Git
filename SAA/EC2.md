@@ -24,3 +24,12 @@
 - Firewall rules: [[Security Group]]
 - Bootstrap script: EC2 User Data
 	- configure at first launch
+
+
+## EC2 Hibernate
+
+> [!meno] EC2 인스턴스의 절전모드!
+
+- 인 메모리(RAM)의 데이터가 보존된다.
+	- 즉, 인스턴스의 재부팅이 매우 빠르다!
+	- 절전에 들어가기 직전의 RAM의 상태가 루트 경로의 
