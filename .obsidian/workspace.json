@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAA/Region.md",
+                "file": "SAA/Cloudfront.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ced60be7cc43249f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ENI.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "857a6b9f5e4996c6",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAA/Region.md",
+                "file": "ENI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAA/Region.md",
+                "file": "ENI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAA/Region.md"
+                "file": "ENI.md"
               }
             }
           },
@@ -156,13 +169,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b27a20fa653641e8",
+  "active": "ced60be7cc43249f",
   "lastOpenFiles": [
+    "SAA/Cloudfront.md",
+    "ENI.md",
+    "SAA/Region.md",
     "SAA/EFS.md",
     "SAA/Athena.md",
     "SAA/S3.md",
     "SAA/S3 Glacier.md",
-    "SAA/Region.md",
     "SAA/Snowball Edge.md",
     "SAA/EventBridge.md",
     "Pasted image 20230912203912.png",
@@ -170,7 +185,6 @@
     "SAA/EBS.md",
     "SAA/WAF.md",
     "SAA/IAM.md",
-    "SAA/Cloudfront.md",
     "SAA/Route53.md",
     "SAA/Global Infrastructure.md",
     "SAA/Edge Locations.md",
