@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fc06b8fad3079cea",
+        "id": "337aea35bb4629de",
         "type": "tabs",
         "children": [
           {
-            "id": "b27a20fa653641e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SAA/Cloudfront.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ced60be7cc43249f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SAA/EBS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e1ec5a19cb7c98a",
+            "id": "e97c955a48842a90",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,31 +156,33 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8e1ec5a19cb7c98a",
+  "active": "e97c955a48842a90",
   "lastOpenFiles": [
+    "SAA/Cloudfront.md",
+    "ELB.md",
+    "SAA/EC2.md",
+    "SAA/ENI.md",
+    "SAA/EFS.md",
+    "SAA/EBS.md",
+    "ASG.md",
+    "SAA/Global Infrastructure.md",
+    "SAA/IAM.md",
+    "SAA/EC2 Instance Store.md",
     "SAA/AMI.md",
+    "SAA/WAF.md",
     "Pasted image 20230912203912.png",
     "Drawing 2023-09-14 00.54.43.excalidraw.md",
     "스크린샷 2023-09-13 오후 10.04.54.png",
-    "SAA/EBS.md",
-    "SAA/EC2.md",
-    "SAA/ENI.md",
-    "SAA/Cloudfront.md",
     "SAA/Region.md",
-    "SAA/EFS.md",
     "SAA/Athena.md",
     "SAA/S3.md",
     "SAA/S3 Glacier.md",
     "SAA/Snowball Edge.md",
     "SAA/EventBridge.md",
     "SAA/EBS VS EFS VS S3.md",
-    "SAA/WAF.md",
-    "SAA/IAM.md",
     "SAA/Route53.md",
-    "SAA/Global Infrastructure.md",
     "SAA/Edge Locations.md",
     "SAA/EC2 Instance Store VS EBS.md",
-    "SAA/EC2 Instance Store.md",
     "SAA/Availability Zone.md",
     "SAA/Security Group.md",
     "SAA"

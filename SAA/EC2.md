@@ -3,10 +3,10 @@
 
 - Infrastructure as a Service
 - 하나의 서비스가 아니고 많은 것을 포함하고 있다.
-	- EC2: Virtual Machines
-	- EBS: Storing data on Virtual Device
-	- ELB: Distributing load across machines
-	- ASG: Scaling the services using an auto-scaling group
+	- [[EC2]]: Virtual Machines
+	- [[EBS]]: Storing data on Virtual Device
+	- [[ELB]]: Distributing load across machines
+	- [[ASG]]: Scaling the services using an auto-scaling group
 
 - EC2를 재부팅했을 때 퍼블릭 IP는 변경될 수 있지만, 내부 IP는 변경되지 않는다.
 
