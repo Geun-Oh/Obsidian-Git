@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "337aea35bb4629de",
+        "id": "2ac74130e0a304f0",
         "type": "tabs",
         "children": [
           {
-            "id": "e97c955a48842a90",
+            "id": "1b4f654544d2808e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SAA/EC2 Instance Store.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAA/EC2 Instance Store.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAA/EC2 Instance Store.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SAA/EC2 Instance Store.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,8 +148,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e97c955a48842a90",
+  "active": "1b4f654544d2808e",
   "lastOpenFiles": [
+    "SAA/EC2 Instance Store.md",
     "SAA/Cloudfront.md",
     "ELB.md",
     "SAA/EC2.md",
@@ -167,7 +160,6 @@
     "ASG.md",
     "SAA/Global Infrastructure.md",
     "SAA/IAM.md",
-    "SAA/EC2 Instance Store.md",
     "SAA/AMI.md",
     "SAA/WAF.md",
     "Pasted image 20230912203912.png",
