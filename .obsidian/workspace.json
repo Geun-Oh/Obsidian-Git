@@ -11,11 +11,9 @@
             "id": "1b4f654544d2808e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "SAA/S3.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20230912203912.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAA/S3.md",
+                "file": "Pasted image 20230912203912.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAA/S3.md",
+                "file": "Pasted image 20230912203912.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAA/S3.md"
+                "file": "Pasted image 20230912203912.png"
               }
             }
           },
@@ -158,6 +156,9 @@
   },
   "active": "1b4f654544d2808e",
   "lastOpenFiles": [
+    "Pasted image 20230915001703.png",
+    "SAA/EFS.md",
+    "SAA/S3.md",
     "SAA/EBS.md",
     "SAA/Athena.md",
     "SAA/EC2 Instance Store.md",
@@ -165,7 +166,6 @@
     "ELB.md",
     "SAA/EC2.md",
     "SAA/ENI.md",
-    "SAA/EFS.md",
     "ASG.md",
     "SAA/Global Infrastructure.md",
     "SAA/IAM.md",
@@ -175,7 +175,6 @@
     "Drawing 2023-09-14 00.54.43.excalidraw.md",
     "스크린샷 2023-09-13 오후 10.04.54.png",
     "SAA/Region.md",
-    "SAA/S3.md",
     "SAA/S3 Glacier.md",
     "SAA/Snowball Edge.md",
     "SAA/EventBridge.md",
