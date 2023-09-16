@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAA/EBS.md",
+                "file": "SAA/EFS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAA/EBS.md",
+                "file": "SAA/EFS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAA/EBS.md",
+                "file": "SAA/EFS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAA/EBS.md"
+                "file": "SAA/EFS.md"
               }
             }
           },
@@ -158,11 +158,11 @@
   },
   "active": "1b4f654544d2808e",
   "lastOpenFiles": [
+    "SAA/EBS.md",
     "Pasted image 20230912203912.png",
     "Pasted image 20230915001703.png",
     "SAA/EFS.md",
     "SAA/S3.md",
-    "SAA/EBS.md",
     "SAA/Athena.md",
     "SAA/EC2 Instance Store.md",
     "SAA/Cloudfront.md",
