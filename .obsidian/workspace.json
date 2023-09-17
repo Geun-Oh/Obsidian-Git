@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2ac74130e0a304f0",
+        "id": "0fc47e89590da030",
         "type": "tabs",
         "children": [
           {
-            "id": "9a9209adf55c4106",
+            "id": "93c6db9c548d4566",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NLB.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NLB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NLB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "NLB.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,10 +148,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9a9209adf55c4106",
+  "active": "93c6db9c548d4566",
   "lastOpenFiles": [
-    "SAA/S3 Glacier.md",
+    "Pasted image 20230912203912.png",
+    "Pasted image 20230915001703.png",
     "NLB.md",
+    "SAA/S3 Glacier.md",
     "SAA/Security Group.md",
     "SAA/Snowball Edge.md",
     "SAA/WAF.md",
@@ -168,8 +162,6 @@
     "SAA/EBS.md",
     "스크린샷 2023-09-17 오전 3.43.39.png",
     "SAA/AMI.md",
-    "Pasted image 20230912203912.png",
-    "Pasted image 20230915001703.png",
     "SAA/S3.md",
     "SAA/Athena.md",
     "SAA/EC2 Instance Store.md",
@@ -187,7 +179,6 @@
     "SAA/Route53.md",
     "SAA/Edge Locations.md",
     "SAA/EC2 Instance Store VS EBS.md",
-    "SAA/Availability Zone.md",
     "SAA"
   ]
 }
