@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAA/EFS.md",
+                "file": "SAA/EBS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAA/EFS.md",
+                "file": "SAA/EBS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAA/EFS.md",
+                "file": "SAA/EBS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAA/EFS.md"
+                "file": "SAA/EBS.md"
               }
             }
           },
@@ -158,10 +158,12 @@
   },
   "active": "1b4f654544d2808e",
   "lastOpenFiles": [
+    "스크린샷 2023-09-17 오전 3.43.39.png",
+    "SAA/AMI.md",
+    "SAA/EFS.md",
     "SAA/EBS.md",
     "Pasted image 20230912203912.png",
     "Pasted image 20230915001703.png",
-    "SAA/EFS.md",
     "SAA/S3.md",
     "SAA/Athena.md",
     "SAA/EC2 Instance Store.md",
@@ -172,7 +174,6 @@
     "ASG.md",
     "SAA/Global Infrastructure.md",
     "SAA/IAM.md",
-    "SAA/AMI.md",
     "SAA/WAF.md",
     "Drawing 2023-09-14 00.54.43.excalidraw.md",
     "스크린샷 2023-09-13 오후 10.04.54.png",
