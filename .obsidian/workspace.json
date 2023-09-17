@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1b4f654544d2808e",
+            "id": "9a9209adf55c4106",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAA/S3 Glacier.md",
+                "file": "NLB.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 200
   },
   "right": {
     "id": "857a6b9f5e4996c6",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAA/S3 Glacier.md",
+                "file": "NLB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAA/S3 Glacier.md",
+                "file": "NLB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAA/S3 Glacier.md"
+                "file": "NLB.md"
               }
             }
           },
@@ -156,8 +156,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1b4f654544d2808e",
+  "active": "9a9209adf55c4106",
   "lastOpenFiles": [
+    "SAA/S3 Glacier.md",
+    "NLB.md",
     "SAA/Security Group.md",
     "SAA/Snowball Edge.md",
     "SAA/WAF.md",
@@ -180,7 +182,6 @@
     "Drawing 2023-09-14 00.54.43.excalidraw.md",
     "스크린샷 2023-09-13 오후 10.04.54.png",
     "SAA/Region.md",
-    "SAA/S3 Glacier.md",
     "SAA/EventBridge.md",
     "SAA/EBS VS EFS VS S3.md",
     "SAA/Route53.md",
