@@ -21,14 +21,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ALB VS NLB.md",
+                "file": "ASG.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "158aed227704b6c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RDS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ALB VS NLB.md",
+                "file": "RDS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ALB VS NLB.md",
+                "file": "RDS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ALB VS NLB.md"
+                "file": "RDS.md"
               }
             }
           },
@@ -165,8 +177,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ca764386ed4d619f",
+  "active": "158aed227704b6c2",
   "lastOpenFiles": [
+    "ASG.md",
+    "RDS.md",
     "ALB VS NLB.md",
     "Pasted image 20230912203912.png",
     "Pasted image 20230915001703.png",
@@ -186,7 +200,6 @@
     "SAA/Cloudfront.md",
     "ELB.md",
     "SAA/EC2.md",
-    "ASG.md",
     "SAA/Global Infrastructure.md",
     "SAA/IAM.md",
     "Drawing 2023-09-14 00.54.43.excalidraw.md",
@@ -196,7 +209,6 @@
     "SAA/EBS VS EFS VS S3.md",
     "SAA/Route53.md",
     "SAA/Edge Locations.md",
-    "SAA/EC2 Instance Store VS EBS.md",
     "SAA"
   ]
 }
