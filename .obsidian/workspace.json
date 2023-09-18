@@ -38,9 +38,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "361f71a19344a83e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aurora.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RDS.md",
+                "file": "Aurora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RDS.md",
+                "file": "Aurora.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RDS.md"
+                "file": "Aurora.md"
               }
             }
           },
@@ -177,10 +189,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "158aed227704b6c2",
+  "active": "361f71a19344a83e",
   "lastOpenFiles": [
-    "ASG.md",
     "RDS.md",
+    "Aurora.md",
+    "ASG.md",
     "ALB VS NLB.md",
     "Pasted image 20230912203912.png",
     "Pasted image 20230915001703.png",
@@ -208,7 +221,6 @@
     "SAA/EventBridge.md",
     "SAA/EBS VS EFS VS S3.md",
     "SAA/Route53.md",
-    "SAA/Edge Locations.md",
     "SAA"
   ]
 }
