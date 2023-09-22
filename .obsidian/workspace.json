@@ -11,11 +11,28 @@
             "id": "e79bf293173654ff",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SAA/RDS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec75d4f646ca5579",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RDS & Aurora Restore options.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "RDS & Aurora Restore options.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "RDS & Aurora Restore options.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "RDS & Aurora Restore options.md"
+              }
             }
           },
           {
@@ -148,13 +169,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e79bf293173654ff",
+  "active": "ec75d4f646ca5579",
   "lastOpenFiles": [
-    "SAA/ASG.md",
     "SAA/RDS.md",
+    "RDS & Aurora Restore options.md",
+    "SAA/Aurora.md",
+    "SAA/ASG.md",
     "Pasted image 20230912203912.png",
     "Pasted image 20230915001703.png",
-    "SAA/Aurora.md",
     "SAA/ALB VS NLB.md",
     "SAA/NLB.md",
     "SAA/S3 Glacier.md",
