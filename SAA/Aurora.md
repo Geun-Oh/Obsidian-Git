@@ -75,3 +75,12 @@
 
 - 수동 백업
 	- 수동 트리거 가능, 원하느 기간 동안 유지 가능
+
+
+## Aurora Database Cloning
+
+- 단순히 존재하는 Aurora DB 클러스터에서 새로운 Aurora DB 를 클론
+  
+- 스냅샷을 찍어 복원하는 것보다 빠르게 동작
+	- `copy-on-write` 프로토콜을 사용하기 때문
+	- 
