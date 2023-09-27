@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0bb116220b398793",
+        "id": "efcd8e07bf6ee875",
         "type": "tabs",
         "children": [
           {
-            "id": "ec75d4f646ca5579",
+            "id": "15bbe32fb7ac7382",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SAA/Snowball Edge.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 200
   },
   "right": {
     "id": "857a6b9f5e4996c6",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAA/Snowball Edge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAA/Snowball Edge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SAA/Snowball Edge.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,8 +148,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ec75d4f646ca5579",
+  "active": "cbcd57485190f88c",
   "lastOpenFiles": [
+    "Pasted image 20230912203912.png",
+    "Pasted image 20230915001703.png",
+    "RDS & Aurora Restore options.md",
+    "스크린샷 2023-09-17 오전 3.43.39.png",
+    "SAA/Snowball Edge.md",
     "SAA/Cloudfront.md",
     "SAA/S3.md",
     "SAA/Aurora.md",
@@ -170,23 +167,17 @@
     "SAA/ENI.md",
     "SAA/EFS.md",
     "SAA/EBS VS EFS VS S3.md",
-    "RDS & Aurora Restore options.md",
     "SAA/RDS.md",
-    "Pasted image 20230912203912.png",
-    "Pasted image 20230915001703.png",
     "SAA/ALB VS NLB.md",
     "SAA/NLB.md",
     "SAA/S3 Glacier.md",
     "SAA/Security Group.md",
-    "SAA/Snowball Edge.md",
     "SAA/WAF.md",
     "SAA/EBS.md",
-    "스크린샷 2023-09-17 오전 3.43.39.png",
     "SAA/AMI.md",
     "SAA/ELB.md",
     "SAA/EC2.md",
     "SAA/IAM.md",
-    "Drawing 2023-09-14 00.54.43.excalidraw.md",
     "스크린샷 2023-09-13 오후 10.04.54.png",
     "SAA"
   ]
