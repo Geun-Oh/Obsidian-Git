@@ -11,11 +11,28 @@
             "id": "a00e8b02ff5858a0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SAA/ENI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "583298bd8858d54c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kinesis.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kinesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Kinesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Kinesis.md"
+              }
             }
           },
           {
@@ -148,8 +169,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a00e8b02ff5858a0",
+  "active": "583298bd8858d54c",
   "lastOpenFiles": [
+    "SAA/ENI.md",
+    "Kinesis.md",
+    "SAA/NLB.md",
+    "SAA/IAM.md",
     "Pasted image 20230912203912.png",
     "Pasted image 20230915001703.png",
     "RDS & Aurora Restore options.md",
@@ -164,12 +189,10 @@
     "SAA/EC2 Instance Store VS EBS.md",
     "SAA/Global Infrastructure.md",
     "SAA/EventBridge.md",
-    "SAA/ENI.md",
     "SAA/EFS.md",
     "SAA/EBS VS EFS VS S3.md",
     "SAA/RDS.md",
     "SAA/ALB VS NLB.md",
-    "SAA/NLB.md",
     "SAA/S3 Glacier.md",
     "SAA/Security Group.md",
     "SAA/WAF.md",
@@ -177,7 +200,6 @@
     "SAA/AMI.md",
     "SAA/ELB.md",
     "SAA/EC2.md",
-    "SAA/IAM.md",
     "스크린샷 2023-09-13 오후 10.04.54.png",
     "SAA"
   ]
