@@ -1,5 +1,12 @@
 >[!info] Relational Database Service
 
+
+>[!summary] RDS Summary
+>
+>- 관리형 MySQL / PostgreSQL / Oracle / SQL Server / MariaDB / Custom DB에 대해 지원
+>- 사용 시 
+
+
 - 관리형 데이터베이스 서비스, SQL을 쿼리 언어로 사용한다.
 
 - AWS에 의해 관리되는 클라우드 데이터베이스를 만들 수 있다. => 혜택이 많다.
