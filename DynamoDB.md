@@ -12,4 +12,7 @@
 >  - 이벤트 제어: DynamoDB Streams를 활성화해서 데이터베이스에서 일어나는 모든 변경사항을 스트리밍할 수 있고, DynamoDB Streams에서 람다를 호출할 수 있도록 통합이 가능.
 >  - 이외에도 DynamoDB Streams 외에 Kinesis Data Stream을 통해 Kinesis Data Firehose기능을 활용하는 등의 통합도 가능하다.
 >  - 글로벌테이블 기능: active-active 설정
->  - 35일
+>  - PITR 기능 활성화 시 35일 내 자동 백업 가능, 혹은 백업 장기간 보관 시 On-demand 백업 설정 가능
+>  - 읽기 용량을 사용하지 않고 S3에 데이터를 백업하거나, 쓰기 용량을 사용하지 않고 S3에서 데이터를 불러올 수 있다.
+>    
+>    - use case: 서버리스 애플리케이션 개발(100s KB 내의 작은 문서), 분산 서버리스 캐시
