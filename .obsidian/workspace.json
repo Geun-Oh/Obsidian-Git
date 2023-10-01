@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ElastiCache.md",
+                "file": "SAA/ElastiCache.md",
                 "mode": "source",
                 "source": false
               }
@@ -183,8 +183,8 @@
   "lastOpenFiles": [
     "SAA/S3.md",
     "DocumentDB.md",
-    "DynamoDB.md",
-    "ElastiCache.md",
+    "SAA/DynamoDB.md",
+    "SAA/ElastiCache.md",
     "SAA/Aurora.md",
     "SAA/RDS.md",
     "SAA/EFS.md",
