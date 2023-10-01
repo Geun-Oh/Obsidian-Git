@@ -110,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAA/S3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAA/S3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAA/S3.md"
+                "file": "DocumentDB.md"
               }
             }
           },
@@ -181,8 +179,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "54b0b0d30713a145",
+  "active": "cbcd57485190f88c",
   "lastOpenFiles": [
+    "SAA/S3.md",
+    "DocumentDB.md",
     "DynamoDB.md",
     "ElastiCache.md",
     "SAA/Aurora.md",
@@ -200,7 +200,6 @@
     "스크린샷 2023-09-17 오전 3.43.39.png",
     "SAA/Snowball Edge.md",
     "SAA/Cloudfront.md",
-    "SAA/S3.md",
     "SAA/Athena.md",
     "SAA/ASG.md",
     "SAA/EC2 Instance Store.md",
@@ -211,7 +210,6 @@
     "SAA/ALB VS NLB.md",
     "SAA/Security Group.md",
     "SAA/WAF.md",
-    "SAA/EBS.md",
     "스크린샷 2023-09-13 오후 10.04.54.png",
     "SAA"
   ]
