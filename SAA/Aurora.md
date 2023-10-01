@@ -2,7 +2,17 @@
 
 >[!summary] Aurora Summary
 >
->- 
+>- PostgreSQL / MySQL 가 호환되고, 컴퓨팅 자원과 스토리지 자원이 분리된느 특별한 서비스
+>- 스토리지 자원: 3개의 AZ에 걸쳐 6개의 복사본에 저장된다 - 높은 가용성, 자가 복구, 오토 스케일링이 가능
+>- <font color="#f79646">높은 가용성을 지닌다!</font>
+>- 컴퓨팅 자원: 멀티 AZ에 걸친 데이터베이스 클러스터, 읽기 전용 복제본에 대한 오토 스케일링 제공 => 쓰기 및 읽기 커스텀 엔드포인트 제공을 통해, 트래픽을 확인하고 오토 스케일링
+>- RDS와 동일한 보안 모니터링, 유지 관리 기능을 가진다.
+>- 백업, 복구 옵션 제공
+>- Aurora Serverless - 예측 불가한 워크로드에서 생성, 용량 계획 불필요
+>- Aurora Multi-Master - 지속 가능한 쓰기 복구를 위함. 여러 인스턴스가 쓰기를 할 수 있도록 함.
+>- Aurora Global - 각 리전 당 최대 16개의 읽기 복제본 생성이 가능, <font color="#f79646">1초 미만의 복제 시간</font>
+>- Aurora Machine Learning - SageMaker & Comprehend를 사용해 Aurora 를 활용한 머신러닝이 가능
+>- Aurora Database Cloning - 기존 클러스터로부터 새로운 클러스터 생성, 
 
 - AWS 고유 기술, 오픈소스가 아님
 - PostgreSQL, MySQL을 지원
