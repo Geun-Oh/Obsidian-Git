@@ -1,5 +1,9 @@
 >[!info] 너무 딥하게 알 필요 없이, 어떠한 방식으로 작동하는지와 특징을 이해하면 된다.
 
+>[!summary] Aurora Summary
+>
+>- 
+
 - AWS 고유 기술, 오픈소스가 아님
 - PostgreSQL, MySQL을 지원
 - RDS의 MySQL보다 5배 높은 성능을 발휘하고, RDS의 PostgreSQL보다 3배 높은 성능을 보여준다.
