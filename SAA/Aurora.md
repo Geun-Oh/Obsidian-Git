@@ -12,7 +12,9 @@
 >- Aurora Multi-Master - 지속 가능한 쓰기 복구를 위함. 여러 인스턴스가 쓰기를 할 수 있도록 함.
 >- Aurora Global - 각 리전 당 최대 16개의 읽기 복제본 생성이 가능, <font color="#f79646">1초 미만의 복제 시간</font>
 >- Aurora Machine Learning - SageMaker & Comprehend를 사용해 Aurora 를 활용한 머신러닝이 가능
->- Aurora Database Cloning - 기존 클러스터로부터 새로운 클러스터 생성, 
+>- Aurora Database Cloning - 기존 클러스터로부터 새로운 클러스터 생성 => 새로운 스냅샷 생성보다 빠름
+>
+>- use case: RDS와 동일, 그러나 더 적은 관리 자원 / 더 높은 유연성 / 더 좋은 성능 / 더 많은 기능
 
 - AWS 고유 기술, 오픈소스가 아님
 - PostgreSQL, MySQL을 지원

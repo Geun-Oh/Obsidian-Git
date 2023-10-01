@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b925035cb0ce4f4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ElastiCache.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAA/Aurora.md",
+                "file": "ElastiCache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAA/Aurora.md",
+                "file": "ElastiCache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAA/Aurora.md"
+                "file": "ElastiCache.md"
               }
             }
           },
@@ -156,8 +169,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a00e8b02ff5858a0",
+  "active": "b925035cb0ce4f4f",
   "lastOpenFiles": [
+    "SAA/Aurora.md",
+    "ElastiCache.md",
     "SAA/RDS.md",
     "SAA/EFS.md",
     "SAA/ENI.md",
@@ -173,7 +188,6 @@
     "SAA/Snowball Edge.md",
     "SAA/Cloudfront.md",
     "SAA/S3.md",
-    "SAA/Aurora.md",
     "SAA/Athena.md",
     "SAA/ASG.md",
     "SAA/EC2 Instance Store.md",
@@ -186,7 +200,6 @@
     "SAA/WAF.md",
     "SAA/EBS.md",
     "SAA/AMI.md",
-    "SAA/ELB.md",
     "스크린샷 2023-09-13 오후 10.04.54.png",
     "SAA"
   ]
