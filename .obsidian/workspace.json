@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f2dfd02dbdbe09ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CloudWatch Insights.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CloudWatch.md",
+                "file": "CloudWatch Insights.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CloudWatch.md",
+                "file": "CloudWatch Insights.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CloudWatch.md"
+                "file": "CloudWatch Insights.md"
               }
             }
           },
@@ -165,14 +177,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "97df138bd9330511",
+  "active": "f2dfd02dbdbe09ef",
   "lastOpenFiles": [
+    "CloudWatch.md",
+    "CloudWatch Insights.md",
     "스크린샷 2023-10-02 오후 11.24.32.png",
     "스크린샷 2023-10-02 오후 11.23.36.png",
     "스크린샷 2023-10-02 오후 11.18.24.png",
     "Kinesis Data Streams VS Kinesis Data Firehose.md",
     "스크린샷 2023-10-02 오후 11.17.02.png",
-    "CloudWatch.md",
     "SAA/S3.md",
     "DocumentDB.md",
     "SAA/DynamoDB.md",
