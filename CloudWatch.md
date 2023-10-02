@@ -36,3 +36,87 @@
 - 로그 만료 기한도 정할 수 있다.
 - S3, Kinesis Data Streams, Firehose, AWS Lambda, Elastic Search 등으로 보낼 수 있다.
 
+
+## CloudWatch Logs Metric Filter & Insights
+
+- CloudWatch Logs에서 필터 표현식을 쓸 수 있다.
+	- 로그 내 특정 IP를 찾을 수 있거나 로그 중 'ERROR' 메세지가 들어있는 로그를 찾을 수 있다.
+
+- Metric Filter를 통해 출현 빈도를 계산해 지표를 만들 수 있다.
+	- CloudWatch 알람 트리거로도 사용 가능
+
+- CloudWatch Logs Insights => 로그를 쿼리하고 대시보드로 추가 가능
+	- 빠른 검색과 효율적인 분석 가능
+
+
+## S3 Export
+
+- Export까지 최대 12시간
+- Non-real time 이므로 로그를 스트림하고 싶다면 Log Subscriptions를 사용해야 한다.
+
+
+## CloudWatch Logs Subscriptions
+
+- CloudWatch 위에 적용해 로그를 목적지로 보내는 필터
+- S3 내보내기보다 훨씬 빠르다.![[스크린샷 2023-10-02 오후 11.23.36.png]]
+
+
+## CloudWatch Logs Aggregation Multi-Account & Multi Region
+
+
+- 모든 로그를 한 곳에 모을 수 있다.![[스크린샷 2023-10-02 오후 11.24.32.png]]
+
+
+## CloudWatch Logs for EC2
+
+- EC2에서 CloudWatch로는 로그 옮기기가 불가함
+- 에이전트라는 작은 프로그램을 실행해 원하는 로그 파일을 EC2 내부에서 푸시해야한다.
+- EC2 인스턴스에 IAM Role을 추가해야한다.
+- 온프레미스에서도 적용 가능!
+
+
+## CloudWatch Logs Agent & Unified Agent
+
+- 두 서비스 모두 온프레미스와 같이 가상 서버를 위함
+
+### Logs Agent
+
+- CloudWatch Log 로만 로그를 보낼 수 있다.
+
+### Unified Agent
+
+- 프로세스나 RAM 과 같이 컴퓨팅 자원과 관련된 지표도 수집 가능
+- SSM Parameter Store를 통해 쉽게 구성 가능
+	- 모든 통함 에이전트를 모아 중앙 집중식 환경 구성을 할 수 있다.
+
+
+## Unified Agent - Metrics
+
+인스턴스나 리눅스 서버를 만들면 지표 정보를 직접적으로 가져올 수 있다.
+
+하드웨어 소프트웨어 지표 모두 수집 가능
+
+- CPU → (active, guest, idle, system, user, steal)
+- Disk metrics → (free, used, total), 디스크 I/O (writes, reads, bytes, iops)
+- RAM → (free, inactive, used, total, cached)
+- 넷 상태(Netstat) → (number of TCP and UDP connections, net packets, bytes)
+- 프로세스 → (total, dead, bloqued, idle, running, sleep)
+- 스와프 공간 → (Swap Space) (free, used, used %)
+
+
+## CloudWatch Alarms
+
+- 지표에서 알람 트리거
+- 다양한 옵션을 추가해 복잡한 정의가 가능
+- 알람 상태
+	- OK => 트리거되지 않은 안정 상태
+	- INSUFFICIENT_DATA => 상태를 결정할 데이터가 부족
+	- ALARM => 임계를 넘는 상태
+- Period => 경보가 지표를 살펴보는 기간
+	- 짧게 설정하거나 길게 설정 가능
+	- 고해상도 사용자 지정 지표에도 적용 가능 => 10초, 30초, 60의 배수,,,
+
+
+## CloudWatch Alarm Targets
+
+- EC2 인슽
