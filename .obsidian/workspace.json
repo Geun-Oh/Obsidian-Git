@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "97df138bd9330511",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CloudWatch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CloudWatch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CloudWatch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DocumentDB.md"
+                "file": "CloudWatch.md"
               }
             }
           },
@@ -150,8 +165,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cbcd57485190f88c",
+  "active": "97df138bd9330511",
   "lastOpenFiles": [
+    "스크린샷 2023-10-02 오후 11.18.24.png",
+    "Kinesis Data Streams VS Kinesis Data Firehose.md",
+    "스크린샷 2023-10-02 오후 11.17.02.png",
+    "CloudWatch.md",
     "SAA/S3.md",
     "DocumentDB.md",
     "SAA/DynamoDB.md",
@@ -178,9 +197,6 @@
     "SAA/Global Infrastructure.md",
     "SAA/EventBridge.md",
     "SAA/EBS VS EFS VS S3.md",
-    "SAA/ALB VS NLB.md",
-    "SAA/Security Group.md",
-    "SAA/WAF.md",
     "스크린샷 2023-09-13 오후 10.04.54.png",
     "SAA"
   ]
