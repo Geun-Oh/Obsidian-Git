@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CloudWatch.md",
+                "file": "SAA/CloudWatch.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CloudWatch Insights.md",
+                "file": "SAA/CloudWatch Insights.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CloudTrail.md",
+                "file": "SAA/Kinesis Data Streams VS Kinesis Data Firehose.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CloudTrail.md",
+                "file": "SAA/Kinesis Data Streams VS Kinesis Data Firehose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CloudTrail.md",
+                "file": "SAA/Kinesis Data Streams VS Kinesis Data Firehose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CloudTrail.md"
+                "file": "SAA/Kinesis Data Streams VS Kinesis Data Firehose.md"
               }
             }
           },
@@ -189,16 +189,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b8bed42359c7911b",
+  "active": "cbcd57485190f88c",
   "lastOpenFiles": [
+    "SAA/CloudTrail.md",
     "CloudTrail Events.md",
-    "CloudTrail.md",
-    "CloudWatch Insights.md",
-    "CloudWatch.md",
+    "SAA/CloudWatch Insights.md",
+    "SAA/CloudWatch.md",
     "스크린샷 2023-10-02 오후 11.24.32.png",
     "스크린샷 2023-10-02 오후 11.23.36.png",
     "스크린샷 2023-10-02 오후 11.18.24.png",
-    "Kinesis Data Streams VS Kinesis Data Firehose.md",
+    "SAA/Kinesis Data Streams VS Kinesis Data Firehose.md",
     "스크린샷 2023-10-02 오후 11.17.02.png",
     "SAA/S3.md",
     "DocumentDB.md",
@@ -215,7 +215,7 @@
     "SAA/IAM.md",
     "Pasted image 20230912203912.png",
     "Pasted image 20230915001703.png",
-    "RDS & Aurora Restore options.md",
+    "SAA/RDS & Aurora Restore options.md",
     "스크린샷 2023-09-17 오전 3.43.39.png",
     "SAA/Snowball Edge.md",
     "SAA/Cloudfront.md",
