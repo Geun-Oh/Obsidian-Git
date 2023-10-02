@@ -38,9 +38,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b8bed42359c7911b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CloudTrail.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8bfbf684c538cd0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CloudTrail Events.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -106,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CloudWatch Insights.md",
+                "file": "CloudTrail Events.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CloudWatch Insights.md",
+                "file": "CloudTrail Events.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CloudWatch Insights.md"
+                "file": "CloudTrail Events.md"
               }
             }
           },
@@ -177,10 +201,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f2dfd02dbdbe09ef",
+  "active": "8bfbf684c538cd0f",
   "lastOpenFiles": [
-    "CloudWatch.md",
+    "CloudTrail.md",
+    "CloudTrail Events.md",
     "CloudWatch Insights.md",
+    "CloudWatch.md",
     "스크린샷 2023-10-02 오후 11.24.32.png",
     "스크린샷 2023-10-02 오후 11.23.36.png",
     "스크린샷 2023-10-02 오후 11.18.24.png",
@@ -210,8 +236,6 @@
     "SAA/EC2 Instance Store.md",
     "SAA/EC2 Instance Store VS EBS.md",
     "SAA/Global Infrastructure.md",
-    "SAA/EventBridge.md",
-    "SAA/EBS VS EFS VS S3.md",
     "스크린샷 2023-09-13 오후 10.04.54.png",
     "SAA"
   ]
