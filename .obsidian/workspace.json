@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAA/Kinesis Data Streams VS Kinesis Data Firehose.md",
+                "file": "SAA/DynamoDB.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAA/Kinesis Data Streams VS Kinesis Data Firehose.md",
+                "file": "SAA/DynamoDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAA/Kinesis Data Streams VS Kinesis Data Firehose.md",
+                "file": "SAA/DynamoDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAA/Kinesis Data Streams VS Kinesis Data Firehose.md"
+                "file": "SAA/DynamoDB.md"
               }
             }
           },
@@ -189,8 +189,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cbcd57485190f88c",
+  "active": "b8bed42359c7911b",
   "lastOpenFiles": [
+    "SAA/S3.md",
+    "SAA/DynamoDB.md",
     "SAA/CloudTrail.md",
     "CloudTrail Events.md",
     "SAA/CloudWatch Insights.md",
@@ -200,9 +202,7 @@
     "스크린샷 2023-10-02 오후 11.18.24.png",
     "SAA/Kinesis Data Streams VS Kinesis Data Firehose.md",
     "스크린샷 2023-10-02 오후 11.17.02.png",
-    "SAA/S3.md",
     "DocumentDB.md",
-    "SAA/DynamoDB.md",
     "SAA/ElastiCache.md",
     "SAA/Aurora.md",
     "SAA/RDS.md",
