@@ -201,10 +201,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3a280f540c6965be",
+  "active": "cbcd57485190f88c",
   "lastOpenFiles": [
-    "SAA/DynamoDB.md",
+    "Review_note/스크린샷 2023-10-03 오후 7.18.07.png",
+    "Review_note/examtopic_42.md",
+    "스크린샷 2023-10-03 오후 6.39.20.png",
     "SSM Session Manager.md",
+    "Review_note",
+    "SAA/DynamoDB.md",
     "SAA/S3.md",
     "SAA/CloudTrail.md",
     "CloudTrail Events.md",
@@ -234,8 +238,6 @@
     "SAA/Cloudfront.md",
     "SAA/Athena.md",
     "SAA/ASG.md",
-    "SAA/EC2 Instance Store.md",
-    "SAA/EC2 Instance Store VS EBS.md",
     "스크린샷 2023-09-13 오후 10.04.54.png",
     "SAA"
   ]
