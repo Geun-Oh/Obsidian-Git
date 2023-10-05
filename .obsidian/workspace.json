@@ -8,75 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "914cd6fd2dc10c46",
+            "id": "2cf2ace55634c0e2",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "97df138bd9330511",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SAA/CloudWatch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2dfd02dbdbe09ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SAA/CloudWatch Insights.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8bed42359c7911b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SAA/DynamoDB.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a280f540c6965be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Review_note/examtopic_42.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0161ccf206a4ee16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "examtopic_43.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "examtopic_43.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "examtopic_43.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "examtopic_43.md"
-              }
+              "state": {}
             }
           },
           {
@@ -213,11 +148,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0161ccf206a4ee16",
+  "active": "2cf2ace55634c0e2",
   "lastOpenFiles": [
+    "Untitled.md",
+    "SAA/examtopic_43.md",
     "Review_note/examtopic_42.md",
-    "examtopic_43.md",
-    "SSM Session Manager.md",
+    "SAA/SSM Session Manager.md",
     "Review_note/스크린샷 2023-10-03 오후 7.18.07.png",
     "스크린샷 2023-10-03 오후 6.39.20.png",
     "Review_note",
@@ -250,7 +186,6 @@
     "SAA/Snowball Edge.md",
     "SAA/Cloudfront.md",
     "SAA/Athena.md",
-    "SAA/ASG.md",
     "스크린샷 2023-09-13 오후 10.04.54.png",
     "SAA"
   ]
