@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b3ee0dcc3026d621",
+        "id": "f32dae0a2888036f",
         "type": "tabs",
         "children": [
           {
-            "id": "2cf2ace55634c0e2",
+            "id": "dbf2aca08f50c002",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,8 +148,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2cf2ace55634c0e2",
+  "active": "dbf2aca08f50c002",
   "lastOpenFiles": [
+    "SAA/AMI.md",
+    "SAA/Aurora.md",
+    "SAA/WAF.md",
+    "SAA/S3.md",
+    "SAA/RDS & Aurora Restore options.md",
+    "SAA/Region.md",
+    "SAA/RDS.md",
+    "SAA/Kinesis.md",
+    "SAA/Cloudfront.md",
+    "SAA/ASG.md",
     "Untitled.md",
     "SAA/examtopic_43.md",
     "Review_note/examtopic_42.md",
@@ -158,7 +168,6 @@
     "스크린샷 2023-10-03 오후 6.39.20.png",
     "Review_note",
     "SAA/DynamoDB.md",
-    "SAA/S3.md",
     "SAA/CloudTrail.md",
     "CloudTrail Events.md",
     "SAA/CloudWatch Insights.md",
@@ -170,22 +179,13 @@
     "스크린샷 2023-10-02 오후 11.17.02.png",
     "DocumentDB.md",
     "SAA/ElastiCache.md",
-    "SAA/Aurora.md",
-    "SAA/RDS.md",
     "SAA/EFS.md",
     "SAA/ENI.md",
     "SAA/S3 Glacier.md",
     "SAA/ECS.md",
-    "SAA/Kinesis.md",
-    "SAA/NLB.md",
-    "SAA/IAM.md",
     "Pasted image 20230912203912.png",
     "Pasted image 20230915001703.png",
-    "SAA/RDS & Aurora Restore options.md",
     "스크린샷 2023-09-17 오전 3.43.39.png",
-    "SAA/Snowball Edge.md",
-    "SAA/Cloudfront.md",
-    "SAA/Athena.md",
     "스크린샷 2023-09-13 오후 10.04.54.png",
     "SAA"
   ]
