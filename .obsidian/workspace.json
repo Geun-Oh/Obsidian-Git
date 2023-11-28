@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "da6c7afda241f14e",
+        "id": "9570cce504010979",
         "type": "tabs",
         "children": [
           {
-            "id": "404a2bdf4acf3e70",
+            "id": "43b322285946dcba",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,8 +148,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "404a2bdf4acf3e70",
+  "active": "43b322285946dcba",
   "lastOpenFiles": [
+    "프론트엔드 배포 전략.md",
     "EKS IRSA.md",
     "SAA/Athena.md",
     "SAA/ALB VS NLB.md",
@@ -182,7 +183,6 @@
     "DocumentDB.md",
     "SAA/ElastiCache.md",
     "SAA/EFS.md",
-    "SAA/ENI.md",
     "Pasted image 20230912203912.png",
     "Pasted image 20230915001703.png",
     "스크린샷 2023-09-17 오전 3.43.39.png",
