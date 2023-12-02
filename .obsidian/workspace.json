@@ -4,18 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "9570cce504010979",
+        "id": "53dfe0035d021dc7",
         "type": "tabs",
         "children": [
           {
-            "id": "43b322285946dcba",
+            "id": "1a1cea1090dc58d5",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "99b7c951e9b77e99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpsWorks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "OpsWorks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "OpsWorks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EKS IRSA.md"
+                "file": "OpsWorks.md"
               }
             }
           },
@@ -150,8 +165,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cbcd57485190f88c",
+  "active": "99b7c951e9b77e99",
   "lastOpenFiles": [
+    "OpsWorks.md",
+    "Review_note/스크린샷 2023-10-03 오후 7.18.07.png",
+    "Review_note/examtopic_42.md",
     "프론트엔드 배포 전략.md",
     "EKS IRSA.md",
     "SAA/Athena.md",
@@ -167,9 +185,7 @@
     "SAA/Cloudfront.md",
     "SAA/ASG.md",
     "SAA/examtopic_43.md",
-    "Review_note/examtopic_42.md",
     "SAA/SSM Session Manager.md",
-    "Review_note/스크린샷 2023-10-03 오후 7.18.07.png",
     "스크린샷 2023-10-03 오후 6.39.20.png",
     "Review_note",
     "SAA/DynamoDB.md",
@@ -184,7 +200,6 @@
     "스크린샷 2023-10-02 오후 11.17.02.png",
     "DocumentDB.md",
     "SAA/ElastiCache.md",
-    "SAA/EFS.md",
     "Pasted image 20230912203912.png",
     "Pasted image 20230915001703.png",
     "스크린샷 2023-09-17 오전 3.43.39.png",
