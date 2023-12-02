@@ -3,15 +3,5 @@
 > 3-tier application 구성에 매우 좋다
 
 
-
-
-
-
-
-# OpsWorks Stacks
-
-- 하나의 
-
-# OpsWorks for Chef Automate
-
-# OpsWorks for Puppet Enterprise
+- custom cheif recipe에서 Setup, Deploy, Undeploy, Shutdown은 Instance specific인데, Configure만 그렇지 않아 하나의 Instance에서의 이벤트를 타 인스턴스에 적용할 수 있음을 기억해야 한다.
+- Setup에 Deploy과정이 포함되어 있다.
