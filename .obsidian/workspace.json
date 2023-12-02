@@ -118,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "EKS IRSA.md"
+              }
             }
           },
           {
@@ -148,7 +150,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "43b322285946dcba",
+  "active": "cbcd57485190f88c",
   "lastOpenFiles": [
     "프론트엔드 배포 전략.md",
     "EKS IRSA.md",
