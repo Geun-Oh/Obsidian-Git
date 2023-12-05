@@ -9,3 +9,11 @@ Cloudformation 스택에서 특정 설정을 업데이트하는 등의 작업이
 ## 중첩 스택
 
 자주 사용되는 스택으를 따로 중첩 스택으로 설정하여 다른 cloudformation stackset에 적용할 수 있다.
+
+VPC, IAM 등 여러 템플릿에 걸쳐 자주 사용되는 설정들을 따로 빼둔 뒤 import해오는 방식으로 사용한다.
+
+# 서비스 역할
+
+기본적으로 생성된 Cloudformation 템플릿은 해당 템플릿을 생성한 유저의 iam role을 따라간다. 
+
+다만 여기서 해당 유저가  CloudF권한을 부여할 수 있으려면, `iam:PassRole` 권한이 존재해야한다.
