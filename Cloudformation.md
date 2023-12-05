@@ -39,3 +39,15 @@ CF는 언제나 parameter store에서 최신 값을 가져온다.
 # 동적 참조
 
 런타임에 직접적으로 SSM Parameter Store 혹은 Secrets Manager 내부의 값을 가져오는 것!
+
+스택 세트 혹은 변경 세트 작동 중에 특정한 참조값을 SSM Parameter Store 혹은 Secrets Manager에서 가져올 수 있다.
+
+## 사용 예시
+
+DB 인스턴스 접근 패스워드를 Secrets Manager에서 가져오는 경우
+
+
+
+- SSM, SSM-Secure, Secrets manager 등에서 다 가져올 수 있다.
+- 최대 60개까지 설정할 수 있다. 
+- Amazon Linux 2 AMI와 같이 퍼블릭 SSM parameter는 가져오지 못한다.
