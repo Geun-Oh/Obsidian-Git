@@ -16,4 +16,26 @@ VPC, IAM 등 여러 템플릿에 걸쳐 자주 사용되는 설정들을 따로 
 
 기본적으로 생성된 Cloudformation 템플릿은 해당 템플릿을 생성한 유저의 iam role을 따라간다. 
 
-다만 여기서 해당 유저가  CloudF권한을 부여할 수 있으려면, `iam:PassRole` 권한이 존재해야한다.
+다만 여기서 해당 유저가 Cloudformation에게 실행 권한을 부여하려면, `iam:PassRole` 권한이 존재해야한다.
+
+## 사용 사례
+
+- 작업 수행에 필요한 최소한의 권한만 부여하고자 하는 경우
+
+
+# SSM Parameter
+
+Systems Manager Parameter Store: 다양한 설정 및 환경 변수등을 저장하는 곳
+CF는 언제나 parameter store에서 최신 값을 가져온다.
+
+## 사용 예시
+
+최신 AMI ID 를 가져오는 경우
+
+=> 리전 별 최신 AMI ID가 다르므로, 각 리전에서의 AMI ID를 따로 알 필요가 있다.
+이는 parameter store에 기ㅣ본적으로 저장되어 있으므로, CF는 기본적으로 SSM Parameter store에서 EC2 AMI ID를 가져와서 사용하게 된다.
+
+
+# 동적 참조
+
+런타임에 직접적으로 SSM Parameter Store 혹은 Secrets Manager 내부의 값을 가져오는 것!
