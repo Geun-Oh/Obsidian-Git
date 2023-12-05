@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7ddae7a7a41dbbaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IAM Identity Center.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloudformation.md",
+                "file": "IAM Identity Center.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloudformation.md",
+                "file": "IAM Identity Center.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloudformation.md"
+                "file": "IAM Identity Center.md"
               }
             }
           },
@@ -156,10 +169,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c8538db9e030af1b",
+  "active": "7ddae7a7a41dbbaf",
   "lastOpenFiles": [
-    "AWS Inspector.md",
     "Cloudformation.md",
+    "IAM Identity Center.md",
+    "AWS Inspector.md",
     "OpsWorks.md",
     "Review_note/스크린샷 2023-10-03 오후 7.18.07.png",
     "Review_note/examtopic_42.md",
@@ -189,7 +203,6 @@
     "스크린샷 2023-10-02 오후 11.24.32.png",
     "스크린샷 2023-10-02 오후 11.23.36.png",
     "스크린샷 2023-10-02 오후 11.18.24.png",
-    "SAA/Kinesis Data Streams VS Kinesis Data Firehose.md",
     "스크린샷 2023-10-02 오후 11.17.02.png",
     "Pasted image 20230912203912.png",
     "Pasted image 20230915001703.png",
