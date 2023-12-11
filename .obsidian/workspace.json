@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "afebcea6553f3f5f",
+        "id": "c97d4b828c7555c7",
         "type": "tabs",
         "children": [
           {
-            "id": "c8538db9e030af1b",
+            "id": "c7128b3d27826424",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloudformation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ddae7a7a41dbbaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IAM Identity Center.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IAM Identity Center.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IAM Identity Center.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "IAM Identity Center.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,9 +148,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7ddae7a7a41dbbaf",
+  "active": "c7128b3d27826424",
   "lastOpenFiles": [
     "Cloudformation.md",
+    "DOP Note.md",
     "IAM Identity Center.md",
     "AWS Inspector.md",
     "OpsWorks.md",
@@ -199,7 +179,6 @@
     "SAA/CloudTrail.md",
     "CloudTrail Events.md",
     "SAA/CloudWatch Insights.md",
-    "SAA/CloudWatch.md",
     "스크린샷 2023-10-02 오후 11.24.32.png",
     "스크린샷 2023-10-02 오후 11.23.36.png",
     "스크린샷 2023-10-02 오후 11.18.24.png",
